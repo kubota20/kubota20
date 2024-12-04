@@ -7,5 +7,5 @@
 - フロントエンド: React.js、Next.js
 - バックエンド: Node.js
 - データベース: MySQL、Prisma
-- CDNs: Newt
+- CDN: Newt
 
